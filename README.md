@@ -13,7 +13,6 @@ This repository contains a data analysis project focused on trends in data scien
 7. [Technologies Used](#technologies-used)
 8. [Setup Instructions](#setup-instructions)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Introduction
 The project aims to analyze data science job postings to understand trends such as popular locations, skills in demand, and industry preferences. This analysis can provide valuable insights for job seekers, recruiters, and researchers in the field of data science.
@@ -58,5 +57,4 @@ To run the analysis notebook locally:
 ## Contributing
 Contributions to enhance the analysis or add new features are welcome. Please fork the repository, create a new branch, and submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
